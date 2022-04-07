@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- *main - entry point
+/**
+ *main - prints the phrase Programming is like bulding a multilingual puzzle
  *
  *Retun: 0 after printing the function
  */
