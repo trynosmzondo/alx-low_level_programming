@@ -3,7 +3,7 @@
 /**
  * main - function that multiplies two integers.
  *
- * Return: Always 0.
+ * Return: result.
  */
 int mul(int a, int b)
 {
