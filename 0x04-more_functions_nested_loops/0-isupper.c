@@ -3,7 +3,7 @@
 /**
  * main - check the code.
  *
- * Return: Always 0.
+ * Return: 1 .
  */
 int _isupper(int c)
 {
