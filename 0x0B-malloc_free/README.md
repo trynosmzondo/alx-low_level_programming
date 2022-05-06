@@ -1,1 +1,1 @@
-readme
+function that creates arrays of char
